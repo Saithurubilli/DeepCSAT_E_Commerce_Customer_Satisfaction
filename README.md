@@ -1,4 +1,4 @@
-# DeepCSAT_E_Commerce_Customer_Satisfaction                                                                                                                                        🛍️ Customer Satisfaction Prediction – E-Commerce Project
+🛍️ Customer Satisfaction Prediction – E-Commerce Project
 This project aims to predict customer satisfaction levels based on transactional and behavioral data from an e-commerce platform using machine learning models.
 
 🎯 Objective
